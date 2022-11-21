@@ -1,2 +1,1 @@
-# EEDS
-Earth and Environmental Data Science
+# EEDS - Earth and Environmental Data Science
